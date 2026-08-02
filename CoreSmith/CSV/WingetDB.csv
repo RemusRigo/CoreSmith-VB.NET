@@ -1,0 +1,339 @@
+﻿Name,Description,ID,Category
+7-ZIP,File archiver,7zip.7zip,Archiver
+AbiWord,Word processor,AbiSource.AbiWord,Office
+Adobe Creative Cloud,,Adobe.CreativeCloud,Utility
+Adobe Photoshop Express,,9WZDNCRFJ27N,Viewer/Editor
+Adobe Reader x64,,Adobe.Acrobat.Reader.64-bit,Viewer/Editor
+AdoptOpenJDK 17,,AdoptOpenJDK.OpenJDK.17,Runtime
+Advanced IP Scanner,,Famatech.AdvancedIPScanner,Utility
+AIMP,Audio player,AIMP.AIMP,Audio Player
+AkelPad,,AkelPad.AkelPad,Editor
+Amazon Corretto JRE 8,,Amazon.Corretto.8.JRE,Runtime
+Ant Renamer,File renamer,AntSoftware.AntRenamer,Utility
+aria2,Lightweight multi-protocol & multi-source command-line download utility,aria2.aria2,Torrent
+Audacious,Advanced audio player,Audacious.MediaPlayer,Audio Player
+Audacity,Audio editor / recorder,Audacity.Audacity,Audio Player
+Avast Free Antivirus,Antivirus,XPDNZJFNCR1B07,Security
+AVG Free AntiVirus,Antivirus,XP8BX2DWV7TF50,Security
+Avidemux,Non-linear video editing and transcoding multimedia files,Avidemux.Avidemux,Editor
+Avira Free Security,,XPFD23M0L795KD,Security
+Balena Etcher,Flash OS images to SD cards & USB drives,Balena.Etcher,Utility
+Bandizip,File archiver,Bandisoft.Bandizip,Archiver
+BiglyBT,,BiglySoftware.BiglyBT,Torrent
+BitDefender,,Bitdefender.Bitdefender,Security
+BleachBit,,BleachBit.BleachBit,Utility
+Blender,,BlenderFoundation.Blender,Viewer/Editor
+BlueJ,Java Development Environment,BlueJTeam.BlueJ,Development
+BlueStacks,Android emulator,BlueStack.BlueStacks,Emulator
+Box,,Box.Box,Cloud Storage
+Caesium Image Compressor,,SaeraSoft.CaesiumImageCompressor,Viewer/Editor
+CCleaner,System cleaners,Piriform.CCleaner,Utility
+Chocolatey GUI,Chocolatey GUI,Chocolatey.ChocolateyGUI,Package Manager
+ClamWin Free AntiVirus,,ClamWin.ClamWin,Security
+CodeBlocks,,Codeblocks.Codeblocks,Development
+CopyQ,Clipboard manager,hluk.CopyQ,Clipboard
+Cppcheck,,Cppcheck.Cppcheck,Development
+CPUID CPU-Z,,CPUID.CPU-Z,Utility
+cURL,,cURL.cURL,Utility
+CutePDF,,AcroSoftwareInc.CutePDFWriter,Viewer/Editor
+DB Browser for SQLite,,DBBrowserForSQLite.DBBrowserForSQLite,Development
+Deezer,,Deezer.Deezer,Streaming
+DefenderUI,,VoodooSoft.DefenderUI,Security
+Discord,,Discord.Discord,Chat
+dnGREP,,dnGrep.dnGrep,Utility
+dnSpyEx,debugger and .NET assembly editor ,dnSpyEx.dnSpy,Development
+Dolphin,Nintendo GameCube and Nintendo Wii emulator,DolphinEmulator.Dolphin,Emulator
+draw.io,,JGraph.Draw,Viewer/Editor
+Dropbox,,Dropbox.Dropbox,Cloud Storage
+Electronic Arts,Gaming platform,ElectronicArts.EADesktop,Games
+Elk,,Elk.Elk,Utility
+Epic Games Launcher,Gaming platform,EpicGames.EpicGamesLauncher,Games
+Eraser,,Eraser.Eraser,Security
+ESET Endpoint Antivirus,,ESET.EndpointAntivirus,Security
+Evernote,,Evernote.Evernote,Utility
+Everything,Find files and folders,voidtools.Everything,Utility
+ExifTool,,OliverBetz.ExifTool,Utility
+Facebook,,9WZDNCRFJ2WL,Social Platform
+Facebook Messenger,,9WZDNCRF0083,Social Platform
+FastStone Image Viewer,,FastStone.Viewer,Viewer/Editor
+Fedistar,,h3poteto.fedistar,Utility
+FFmpeg,,Gyan.FFmpeg,CODEC
+File Shredder,,PowTools.FileShredder,Security
+FileCloud,,9WZDNCRDS373,Cloud Storage
+foobar2000,Audio player,PeterPawlowski.foobar2000,Audio Player
+Foxit Reader,,Foxit.FoxitReader,Viewer/Editor
+Free Pascal Compiler,Pascal compiler,FreePascal.FreePascalCompiler,Development
+FreeBASIC,Cross-platform BASIC compiler,FreeBASIC.FreeBASIC,Development
+FreeCAD,,FreeCAD.FreeCAD,Viewer/Editor
+Frhed,,RKibria.frhed,Editor
+Geany,,Geany.Geany,Editor
+Geek Uninstaller,,GeekUninstaller.GeekUninstaller,Uninstaller
+GIMP,,GIMP.GIMP,Viewer/Editor
+git,,Git.Git,Development
+Glary Utilities,Glary Utilities,Glarysoft.GlaryUtilities,Utility
+Gnome Dia,,gnome.Dia,Viewer/Editor
+GNU Gpg4win,,GnuPG.Gpg4win,Security
+GNU Privacy Guard,,GnuPG.GnuPG,Security
+GNU Wget2,,GNU.Wget2,Utility
+GOM Player,,GOMLab.GOMPlayer,Media Player
+Google Chrome,,Google.Chrome,Browser
+Google Chrome,,Google.Chrome.EXE ,Browser
+Google Drive,,Google.GoogleDrive,Cloud Storage
+Google Earth Pro,,Google.EarthPro,other
+Greenshot,,Greenshot.Greenshot,Viewer/Editor
+grepWin,,StefansTools.grepWin,Utility
+guinget,winget GUI,DrewNaylor.guinget,Package Manager
+HakuNeko Desktop,,HakuNeko.HakuNeko,Anime/Manga
+HakuNeko Desktop Nightly,,HakuNeko.HakuNeko.Nightly,Anime/Manga
+Halloy,,squidowl.halloy,IRC
+HandBrake,,HandBrake.HandBrake,Media Player
+HexChat,IRC client based on XChat,HexChat.HexChat,IRC
+IceChat,open source IRC Client,IceChat.IceChat,IRC
+iCloud,,9PKTQ5699M62,Cloud Storage
+IcoFX,,IcoFXSoftware.icofx,Viewer/Editor
+ImgBurn,,LIGHTNINGUK.ImgBurn,Burner
+InfraRecorder,,ChristianKindahl.InfraRecorder,Burner
+Inkscape,,Inkscape.Inkscape,Viewer/Editor
+Inno Setup,,JRSoftware.InnoSetup,Utility
+Instagram,,9NBLGGH5L9XT,Social Platform
+Instant Eyedropper,,Spicebrains.Instant-Eyedropper,Utility
+IrfanView,,IrfanSkiljan.IrfanView,Viewer/Editor
+iTunes,,Apple.iTunes,Audio Player
+IZArc,,IZArc.IZArc,Archiver
+Java Runtime Environment ,,Oracle.JavaRuntimeEnvironment,Runtime
+JetBrains CLion,Cross-platform C/C++ IDE,JetBrains.CLion,Development
+JetBrains DataGrip,Cross-platform SQL IDE,JetBrains.DataGrip,Development
+JetBrains IntelliJ IDEA Ultimate,Java and Kotlin IDE,JetBrains.IntelliJIDEA.Ultimate,Development
+JetBrains PhpStorm,PHP IDE,JetBrains.PhpStorm,Development
+JetBrains PyCharm,Python & Django IDE,JetBrains.PyCharm,Development
+JetBrains ReSharper,Visual Studio Extension for .NET Developers,JetBrains.ReSharper,Development
+JetBrains Rider,"Develop .NET, ASP.NET, .NET Core, Xamarin or Unity applications on Windows, Mac, Linux",JetBrains.Rider,Development
+JetBrains RubyMine,Cross-platform Ruby on Rails IDE,JetBrains.RubyMine,Development
+JetBrains RustRover,Cross-platform Rust IDE,JetBrains.RustRover,Development
+JetBrains WebStorm,JavaScript IDE,JetBrains.WebStorm,Development
+Joplin,,Joplin.Joplin,Utility
+JPEGView,,sylikc.JPEGView,Viewer/Editor
+Kahla,,Aiursoft.Kahla,Messaging
+KDE Falkon,,KDE.Falkon,Browser
+Kdenlive,,KDE.Kdenlive,Media Player
+KeePassXC Password Manager,,XP8K2L36VP0QMB,Security
+K-Lite Codec Pack Full,,CodecGuide.K-LiteCodecPack.Full,Media Player
+K-Meleon,,kmeleonbrowser.K-Meleon,Browser
+Krita,,KDE.Krita,Viewer/Editor
+Launchy,,CodeJelly.Launchy,Customizer/Tweaker
+Lazarus,Cross-platform IDE for Delphi Rapid Application Development,Lazarus.Lazarus,Development
+lessmsi,view and extract the contents of an Windows Installer (.msi) file,activescott.lessmsi,Utility
+LibreCAD,,LibreCAD.LibreCAD,Viewer/Editor
+LibreOffice,,TheDocumentFoundation.LibreOffice,Office
+LibreOffice LTS,,TheDocumentFoundation.LibreOffice.LTS,Office
+LibreWolf,,LibreWolf.LibreWolf,Browser
+LINE,,XP99J3KP4XZ4VV,Messaging
+LinkedIn,,9WZDNCRFJ4Q7,Social Platform
+Links,,TwibrightLabs.Links,Browser
+LockHunter,,CrystalRich.LockHunter,Utility
+Lua JLS,"Lua 5.4, modules and JLS APIs",JavaLikeScript.LuaJLS,Development
+Malwarebytes Free Antivirus,,Malwarebytes.Malwarebytes,Security
+Malwarebytes Windows Firewall Control,,BiniSoft.WindowsFirewallControl,Security
+Maxthon,,Maxthon.Maxthon,Browser
+McAfee Personal Security,,9N1SQW2NKPDS,Security
+MediaInfo GUI,,MediaArea.MediaInfo.GUI,Media Player
+MEGAsync,,Mega.MEGASync,Cloud Storage
+Microsoft .NET Windows Desktop Runtime 8.0,,Microsoft.DotNet.DesktopRuntime.8,Runtime
+Microsoft 365 Apps for enterprise,,Microsoft.Office,Utility
+Microsoft App Installer,,Microsoft.AppInstaller,other
+Microsoft Defender,,9P6PMZTM93LR,Security
+Microsoft Dev Home,,Microsoft.DevHome,Utility
+Microsoft Edge,,Microsoft.Edge,Browser
+Microsoft NuGet,package manager for .NET,Microsoft.NuGet,Package Manager
+Microsoft ODBC Driver 17 for SQL Server,,Microsoft.msodbcsql.17,Runtime
+Microsoft OneDrive,,Microsoft.OneDrive,Cloud Storage
+Microsoft PowerShell,,Microsoft.PowerShell,Development
+Microsoft PowerToys,,Microsoft.PowerToys,Utility
+Microsoft System CLR Types for SQL Server 2019,,Microsoft.CLRTypesSQLServer.2019,Utility
+Microsoft Teams,,Microsoft.Teams,Chat
+Microsoft Teams (Personal),,Microsoft.Teams.Free,Chat
+Microsoft Visual C++ 2008 Redistributable x64,,Microsoft.VCRedist.2008.x64,Runtime
+Microsoft Visual C++ 2008 Redistributable x86,,Microsoft.VCRedist.2008.x86,Runtime
+Microsoft Visual C++ 2010 Redistributable x64,,Microsoft.VCRedist.2010.x64,Runtime
+Microsoft Visual C++ 2010 Redistributable x86,,Microsoft.VCRedist.2010.x86,Runtime
+Microsoft Visual C++ 2012 Redistributable x64,,Microsoft.VCRedist.2012.x64,Runtime
+Microsoft Visual C++ 2013 Redistributable x64,,Microsoft.VCRedist.2013.x64,Runtime
+Microsoft Visual C++ 2013 Redistributable x86,,Microsoft.VCRedist.2013.x86,Runtime
+Microsoft Visual C++ 2015-2022 Redistributable x64,,Microsoft.VCRedist.2015+.x64,Runtime
+Microsoft Visual C++ 2015-2022 Redistributable x86,,Microsoft.VCRedist.2015+.x86,Runtime
+Microsoft Visual Studio Code,,Microsoft.VisualStudioCode,Development
+Microsoft Visual Studio Community 2022,,Microsoft.VisualStudio.2022.Community,Development
+Microsoft Web Deploy,,Microsoft.WebDeploy,Runtime
+Microsoft Windows Terminal,,Microsoft.WindowsTerminal,Utility
+Microsoft XNA Framework,,Microsoft.XNARedist,Runtime
+mIRC,,mIRC.mIRC,IRC
+MKVToolNix,,MoritzBunkus.MKVToolNix,Media Player
+Motrix,,agalwood.Motrix,Torrent
+Mozilla Firefox,,Mozilla.Firefox,Browser
+Mozilla Firefox ESR,,Mozilla.Firefox.ESR,Browser
+Mp3tag,,Mp3tag.Mp3tag,Audio Player
+MPC-HC,,clsid2.mpc-hc,Media Player
+MusicBee,,MusicBee.MusicBee,Audio Player
+NanaZip,,M2Team.NanaZip,Archiver
+NCSoft Purple,Gaming platform,NCSoft.Purple,Games
+Netflix,,9WZDNCRFJ3TJ,Streaming
+Netsoft Hubstaff,Time Tracking and Productivity Monitoring Tool,Netsoft.Hubstaff,Utility
+Nexus Terminal,SSH / RDP / VNC client,Heavrnl.NexusTerminal,Terminal
+Nilesoft Shell,,Nilesoft.Shell,Utility
+NirSoft Advanced Run,,NirSoft.AdvancedRun,Tools
+NirSoft Alternate Stream View ,"Scan your NTFS drive, and find all 
+hidden alternate streams stored in the file system",NirSoft.AlternateStreamView,Tools
+NirSoft App Crash View,Display the details of all application crashes occurred in your system,NirSoft.AppCrashView,Tools
+NirSoft App Read Write Counter,"Counts and displays the current file read / write operations of every 
+application running on your system",NirSoft.AppReadWriteCounter,Tools
+NirSoft BlueScreen View,,NirSoft.BlueScreenView,Utility
+NirSoft Chrome Cache View,,NirSoft.ChromeCacheView,Tools
+NirSoft CSV File View,,NirSoft.CSVFileView,Tools
+NirSoft DNS Lookup View,,NirSoft.DNSLookupView,Tools
+NirSoft Down Tester,,NirSoft.DownTester,Tools
+NirSoft Full Event Log View,,NirSoft.FullEventLogView,Tools
+NirSoft GUI Prop View,Displays extensive information about all windows currently opened on your system,NirSoft.GUIPropView,Tools
+NirSoft Hash My Files,,NirSoft.HashMyFiles,Tools
+NirSoft Inside Clipboard,,NirSoft.InsideClipboard,Tools
+NirSoft Installed Drivers List,,NirSoft.InstalledDriversList,Tools
+NirSoft Installed Packages View,,NirSoft.InstalledPackagesView,Tools
+NirSoft IP Net Info,,NirSoft.IPNetInfo,Tools
+NirSoft Last Activity View,,NirSoft.LastActivityView,Tools
+NirSoft NetB Scanner,,NirSoft.NetBScanner,Tools
+NirSoft NetRouteView,,NirSoft.NetRouteView,Tools
+NirSoft Network Interfaces View,,NirSoft.NetworkInterfacesView,Tools
+NirSoft Network Opened Files,,NirSoft.NetworkOpenedFiles,Tools
+NirSoft Network Usage View,,NirSoft.NetworkUsageView,Tools
+NirSoft NirCmd,,NirSoft.NirCmd,Tools
+NirSoft NK2Edit,,NirSoft.NK2Edit,Tools
+NirSoft Opened Files View,,NirSoft.OpenedFilesView,Tools
+NirSoft Resources Extract,,NirSoft.ResourcesExtract,Tools
+NirSoft Search My Files,,NirSoft.SearchMyFiles,Tools
+NirSoft ShellEx View,,NirSoft.ShellExView,Tools
+NirSoft Simple Program Debugger,,NirSoft.SimpleProgramDebugger,Tools
+NirSoft Sound Volume View,,NirSoft.SoundVolumeView,Tools
+NirSoft Tcp Log View,,NirSoft.TcpLogView,Tools
+NirSoft Turned On Times View,,NirSoft.TurnedOnTimesView,Tools
+NirSoft UninstallView,,NirSoft.UninstallView,Tools
+NirSoft USB Log View,,NirSoft.USBLogView,Tools
+NirSoft Video Cache View,,NirSoft.VideoCacheView,Tools
+NirSoft Volumouse,,NirSoft.Volumouse,Tools
+NirSoft Wake Me On Lan,,NirSoft.WakeMeOnLan,Tools
+NirSoft What Is Hang,,NirSoft.WhatIsHang,Tools
+NirSoft WhoisThisDomain,,NirSoft.WhoisThisDomain,Tools
+NirSoft WIFI Info View,,NirSoft.WifiInfoView,Tools
+NirSoft Wireless Network Watcher,,NirSoft.WirelessNetworkWatcher,Tools
+Notepad++,,Notepad++.Notepad++,Editor
+Notepad2,,zufuliu.notepad2,Editor
+Nushell,,nushell,Shell
+O&O ShutUp10++,,OO-Software.ShutUp10,Security
+OBS Studio,,OBSProject.OBSStudio,Media Player
+Oculus,Gaming platform,Meta.Oculus,Games
+OpenJDK JRE 17,,ojdkbuild.openjdk.17.jre,Runtime
+OpenOffice,,Apache.OpenOffice,Office
+Open-Shell,,Open-Shell.Open-Shell-Menu,Customizer/Tweaker
+OpenShot Video Editor,,OpenShot.OpenShot,Media Player
+OpenVPN Connect,,OpenVPNTechnologies.OpenVPNConnect,VPN
+Opera,,Opera.Opera,Browser
+Oracle JDK 22,,Oracle.JDK.22,Runtime
+Otter,,OtterBrowserTeam.OtterBrowser,Browser
+Paint.NET,,dotPDN.PaintDotNet,Viewer/Editor
+pCloud,,pCloudAG.pCloudDrive,Cloud Storage
+PDF Printer,,Bullzip.PDFPrinter,Utility
+PeaZip,,Giorgiotani.Peazip,Archiver
+PHP 8.4,,PHP.PHP.8.4,Development
+Pidgin,,XP99J3KP4XZ4VV,E-Mail Client
+Pinterest,,9PFHDSF91B9R,Utility
+Playpark Downloader,Gaming platform,AsiasoftOnline.PlayparkDownloader,Games
+Prowlarr,,TeamProwlarr.Prowlarr,Torrent
+PuTTY,,PuTTY.PuTTY,Utility
+Python 2,,Python.Python.2,Development
+Python 3.9,,Python.Python.3.9,Development
+Qalculate,,Qalculate.Qalculate,Utility
+qBittorrent,,qBittorrent.qBittorrent,Torrent
+Q-Eye,,9NBLGGH65THN,Development
+QMMP,,QmmpDevelopmentTeam.qmmp,Audio Player
+QuasselIRC,,Quassel.QuasselIRC,IRC
+Radarr,,TeamRadarr.Radarr,Torrent
+Raspberry Pi Imager,,RaspberryPiFoundation.RaspberryPiImager,Boot Media
+RealVNC Server,,RealVNC.VNCServer,VNC
+RealVNC Viewer,,RealVNC.VNCViewer,VNC
+Resource Hacker,,AngusJohnson.ResourceHacker,Customizer/Tweaker
+Revo Uninstaller,,RevoUninstaller.RevoUninstaller,Uninstaller
+Rubberduck,open-source COM add-in project that integrates with the Visual Basic Editor to add modern-day features to the familiar IDE,Rubberduck.Rubberduck,Development
+Rufus,,Rufus.Rufus,Boot Media
+ScreenToGif,,NickeManarin.ScreenToGif,Viewer/Editor
+Seanime Desktop,,5rahim.Seanime,Anime/Manga
+ShareFile,,ShareFile.ShareFileForWindows,Cloud Storage
+ShareX,,ShareX.ShareX,Screen Capture
+Shotcut,,Meltytech.Shotcut,Media Player
+Skype,,9WZDNCRFJ364,Messaging
+Smart Defrag,Fast & Deep Defrag to Optimize Hard Drive & PC Performance,IObit.SmartDefrag,Utility
+SMPlayer,,SMPlayer.SMPlayer,Media Player
+Snapchat,,9PF9RTKMMQ69,Social Platform
+Sonarr,,TeamSonarr.Sonarr,Torrent
+Sophia Script,PowerShell module,TeamSophia.SophiaScript,Development
+Spotify,,Spotify.Spotify,Streaming
+SQLiteStudio,,sqlitestudio.pl.SQLiteStudio,Development
+Steam,Gaming platform,Valve.Steam,Games
+Stremio,,Stremio.Stremio,Media Player
+SumatraPDF,,SumatraPDF.SumatraPDF,Viewer/Editor
+SyncTrayzor,,SyncTrayzor.SyncTrayzor,Cloud Storage
+Tailscale,,tailscale.tailscale,VPN
+TeamIDE,"database: MySql, Oracle, Kingbase, DM, Shentong, tools: SSH, FTP, Redis, Zookeeper, Kafka and Elasticsearch",TeamIDE.TeamIDE,Development
+TeamViewer,,TeamViewer.TeamViewer,Remote
+TeamViewer Host,,TeamViewer.TeamViewer.Host,Remote
+TechPowerUp GPU-Z,,TechPowerUp.GPU-Z,Utility
+Telegram,,Telegram.TelegramDesktop,Messaging
+TeraCopy,,CodeSector.TeraCopy,Utility
+Termora,,TermoraDev.Termora,Utility
+TheiaIDE,Eclipse IDE based on the Theia platform,EclipseFoundation.TheiaIDE,Development
+Threads,,9MXBP1FB84CQ,Social Platform
+Thunderbird,,Mozilla.Thunderbird,E-Mail Client
+TikTok,,9NH2GPH4JZS4,Social Platform
+Tixati,,Tixati.Tixati.Portable,Torrent
+Total Commander,,Ghisler.TotalCommander,File Manager
+Transmission,,Transmission.Transmission,Torrent
+Trillian,,Trillian.Trillian,Messaging
+Twitter,,XP99J3KP4XZ4VV,Social Platform
+Ubisoft Connect,Gaming platform,Ubisoft.Connect,Games
+uGet,uGet is a lightweight yet powerful Open Source download manager for Windows,uGetdm.uGet,Package Manager
+UNetbootin,,unetbootin.unetbootin,Boot Media
+UniGetUI,,MartiCliment.UniGetUI,Package Manager
+UniversalForwarder,,Splunk.UniversalForwarder,Utility
+VeraCrypt,Disk encryption,IDRIX.VeraCrypt,Security
+Viber,,XPFM5P5KDWF0JP,Messaging
+vim,,vim.vim,Editor
+VirtualBox,,Oracle.VirtualBox,Virtualization
+VLC media player,,VideoLAN.VLC,Media Player
+Walk,terminal navigator,antonmedv.walk,Terminal
+Warp,,Warp.Warp,Terminal
+Wave,,CommandLine.Wave,Terminal
+WebKitty,,YikuanSun.WebKitty,Development
+WeChat,,XP99J3KP4XZ4VV,Messaging
+Whalebird,,h3poteto.whalebird-desktop,E-Mail Client
+WhatsApp,,WhatsApp.WhatsApp,Messaging
+Winamp,,Winamp.Winamp,Audio Player
+WinDbg,,Microsoft.WinDbg,Utility
+WinDirStat,,WinDirStat.WinDirStat,Utility
+winLAME,,vividos.winLAME,Audio Player
+WinMerge,,WinMerge.WinMerge,Utility
+WinRAR,,RARLab.WinRAR,Archiver
+WinSCP,,WinSCP.WinSCP,Utility
+WinScript,,flick9000.WinScript,Development
+WinZip,,Corel.WinZip,Archiver
+Wireshark,,WiresharkFoundation.Wireshark,Utility
+Stratoshark,,WiresharkFoundation.Stratoshark,Utility
+WizTree,,AntibodySoftware.WizTree,Utility
+WSA PacMan,GUI package manager and package installer for Windows Subsystem for Android (WSA),alesimula.wsa_pacman,Package Manager
+XAMPP 8.2,,ApacheFriends.Xampp.8.2,Development
+xemu,Xbox Emulator,xemu-project.xemu,Emulator
+XnView,,XnSoft.XnView.Classic,Viewer/Editor
+Yarn,,Yarn.Yarn,Package Manager
+yt-dlg,,yt-dlg.yt-dlg,Media Player
+yt-dlp,,yt-dlp.yt-dlp,Media Player
+Yumi UEFI,,YumiUsb.UEFI,Boot Media
+Zen Browser,,Zen-Team.Zen-Browser,Browser
+ZeusIDE,,Xidicone.ZeusIDE,Development
+Zint Barcode Studio,,Zint.Zint,Utility
+Zoom Workplace,,XP99J3KP4XZ4VV,Messaging
