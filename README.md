@@ -27,10 +27,10 @@ See the [User's Guide](UsersGuide.md) for downloads, runtimes, installation and 
 
 ## Statistics
 
-![VB.NET](https://img.shields.io/badge/Language-VB.NET-512BD4?labelColor=555555)
-![VS](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?labelColor=555555)
-![CSV](https://img.shields.io/badge/File-CSV-5C2D91?labelColor=555555)
-![winget](https://img.shields.io/badge/CMD-winget-5C2D91?labelColor=555555)
+![VB.NET](https://img.shields.io/badge/Language-VB.NET-blue)
+![CMD](https://img.shields.io/badge/CMD-winget-lightblue)
+![VS](https://img.shields.io/badge/IDE-Visual%20Studio-purple)
+![CSV](https://img.shields.io/badge/File-CSV-yellow)
 <br>
 ![status](https://img.shields.io/badge/status-in%20progress-orange) 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RemusRigo/CoreSmith-VB.NET/total)
